@@ -1,0 +1,11 @@
+Moving an application to the cloud should be as easy as walking on the beach and collecting pebbles in a bucket and easily carry them wherever needed. A 1000-ton boulder, on the other hand, is not easy to carry at all. This boulder represents the monolith application - sedimented layers of features and redundant logic translated into thousands of lines of code, written in a single, not so modern programming language, based on outdated software architecture patterns and principles.
+
+
+Monolith
+- Expensive
+- Challenging to procure
+- Scaling of individual feauture is almost impossible
+- Run in a single process
+- Inevitable downtime
+
+

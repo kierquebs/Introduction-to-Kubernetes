@@ -1,0 +1,9 @@
+Pebbles, as opposed to the 1000-ton boulder, are much easier to handle. They are carved out of the monolith, separated from one another, becoming distributed components each described by a set of specific characteristics. Once weighed all together, the pebbles make up the weight of the entire boulder. These pebbles represent loosely coupled microservices, each performing a specific business function. All the functions grouped together form the overall functionality of the original monolithic application. Pebbles are easy to select and group together based on color, size, shape, and require minimal effort to relocate when needed. Try relocating the 1000-ton boulder, effortlessly.
+
+Microservices
+- Can be deployed individually
+- Aligned with Event-driven Architecture and Service-Oriented Architecture (SOA) principles 
+  (SOA ref: https://www.ibm.com/cloud/learn/soa#:~:text=What%20is%20SOA%2C%20or%20service,rapidly%20incorporated%20into%20new%20applications.)
+  (Event-driven Architecture ref: https://aws.amazon.com/event-driven-architecture/)
+- Scalability
+-
